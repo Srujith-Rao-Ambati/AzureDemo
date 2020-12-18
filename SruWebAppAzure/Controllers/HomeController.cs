@@ -15,7 +15,7 @@ namespace SruWebAppAzure.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Srujith's Page";
+            ViewBag.Message = "Sachin Tendulkar";
 
             return View();
         }
